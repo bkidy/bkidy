@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi 👋, I'm Elliot (bkidy)!</h1>
+  <h1>Hi 👋, I'm Elliot </h1>
   <h3>I'm a Co-founder at <a href="[Mew.Design Official Website Link or GitHub Organization Link]" target="_blank"><strong>Mew.Design</strong></a> with a deep passion for coding and building in the AI era.</h3>
 </div>
 
