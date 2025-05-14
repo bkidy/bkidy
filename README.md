@@ -5,6 +5,8 @@
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=bkidy&label=Profile%20Views&color=0e75b6&style=flat-square" alt="bkidy_profile_views" /> 
+</p>
+<p align="center">
   <a href="https://twitter.com/bkidallen" target="_blank"><img src="https://img.shields.io/twitter/follow/bkidallen?logo=twitter&style=for-the-badge" alt="bkidallen_twitter_follow" /></a>
 </p>
 
