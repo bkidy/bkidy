@@ -1,32 +1,32 @@
 <div align="center">
   <a href="https://mew.design">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:111827,45:2563eb,100:14b8a6&text=Elliot%20Bai&fontColor=ffffff&fontSize=48&fontAlignY=36&desc=AI%20Builder%20%7C%20Co-founder%20at%20Mew.Design&descAlignY=58&animation=fadeIn" alt="Elliot Bai - AI builder" />
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0B0B0B,48:334155,100:14B8A6&text=Elliot%20Bai&fontColor=ffffff&fontSize=48&fontAlignY=36&desc=AI%20Design%20Product%20Builder%20%7C%20Co-founder%20at%20Mew.Design&descAlignY=58&animation=fadeIn" alt="Elliot Bai - AI design product builder" />
   </a>
 </div>
 
-<h3 align="center">Building AI design products that turn intent into visual systems.</h3>
+<h3 align="center">Building AI design products where taste becomes usable systems.</h3>
 
 <p align="center">
-  <a href="https://mew.design"><img src="https://img.shields.io/badge/Mew.Design-AI%20Design%20Studio-111827?style=for-the-badge" alt="Mew.Design" /></a>
-  <a href="https://twitter.com/bkidallen"><img src="https://img.shields.io/badge/@bkidallen-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" /></a>
-  <img src="https://komarev.com/ghpvc/?username=bkidy&label=Profile%20views&color=14b8a6&style=for-the-badge" alt="Profile views" />
+  <a href="https://mew.design"><img src="https://img.shields.io/badge/Mew.Design-AI%20Design%20Product-0B0B0B?style=for-the-badge" alt="Mew.Design" /></a>
+  <a href="https://twitter.com/bkidallen"><img src="https://img.shields.io/badge/@bkidallen-Studio%20Notes-334155?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" /></a>
+  <img src="https://komarev.com/ghpvc/?username=bkidy&label=Studio%20visits&color=14B8A6&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
 
-### Hey, I'm Elliot.
+### Hi, I'm Elliot.
 
-I'm the co-founder of [Mew.Design](https://mew.design), where I'm building AI-native design tools for faster creative collaboration.
+I'm the co-founder of [Mew.Design](https://mew.design), building AI-native design tools for faster creative collaboration.
 
-My sweet spot is the space between product intuition and hands-on engineering: shaping the product, prototyping the workflow, writing the code, and pushing AI from demo magic into useful software.
+My sweet spot is the space between art direction, product taste, and hands-on engineering: shaping the experience, prototyping the workflow, writing the code, and pushing AI from demo magic into useful creative software.
 
 ---
 
 ### Builder Profile
 
-| Product sense | Engineering hands | AI-native workflow |
+| Design taste | Product systems | Engineering craft |
 | --- | --- | --- |
-| I start from user intent, real creative bottlenecks, and the shape of the product experience. | I ship mostly with TypeScript, React, Node.js, Wasp, Tailwind CSS, Python, PostgreSQL, and cloud infrastructure. | I use AI coding tools as a thinking and execution layer: Cursor, Claude, Codex, prompt iteration, and fast product loops. |
+| I start from visual intent, creative bottlenecks, and the feeling of the final output. | I turn fuzzy user needs into repeatable workflows, editable outputs, and product loops. | I ship with TypeScript, React, Node.js, Wasp, Python, PostgreSQL, Cloudflare, AWS, and AI coding tools. |
 
 ---
 
@@ -44,7 +44,7 @@ My sweet spot is the space between product intuition and hands-on engineering: s
 ### Current Focus
 
 - Turning natural language into editable, useful design outputs.
-- Building tight loops between product thinking, AI agents, and shippable code.
+- Building tight loops between design taste, AI agents, and shippable code.
 - Exploring how AI changes design collaboration, prototyping, and software creation.
 - Keeping the work practical: fast experiments, real users, measurable product value.
 
