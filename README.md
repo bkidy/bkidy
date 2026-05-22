@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://mew.design">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:111827,45:2563eb,100:14b8a6&text=Elliot%20Bai&fontColor=ffffff&fontSize=48&fontAlignY=36&desc=AI-native%20product%20builder%20%7C%20Co-founder%20at%20Mew.Design&descAlignY=58&animation=fadeIn" alt="Elliot Bai - AI-native product builder" />
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:111827,45:2563eb,100:14b8a6&text=Elliot%20Bai&fontColor=ffffff&fontSize=48&fontAlignY=36&desc=AI%20Builder%20%7C%20Co-founder%20at%20Mew.Design&descAlignY=58&animation=fadeIn" alt="Elliot Bai - AI builder" />
   </a>
 </div>
 
