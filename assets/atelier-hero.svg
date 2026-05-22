@@ -1,0 +1,93 @@
+<svg width="1200" height="560" viewBox="0 0 1200 560" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Elliot Bai, AI Design Product Builder</title>
+  <desc id="desc">An editorial atelier-style hero graphic for an AI design product builder.</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFF7ED"/>
+      <stop offset="0.44" stop-color="#F7FAFC"/>
+      <stop offset="1" stop-color="#E8FFF7"/>
+    </linearGradient>
+    <linearGradient id="ink" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#171717"/>
+      <stop offset="1" stop-color="#343434"/>
+    </linearGradient>
+    <linearGradient id="signal" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FF4D6D"/>
+      <stop offset="0.5" stop-color="#2DD4BF"/>
+      <stop offset="1" stop-color="#E8FF5B"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#FF4D6D" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#FF4D6D" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#2DD4BF" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dotGrid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.4" fill="#171717" opacity="0.22"/>
+    </pattern>
+    <pattern id="scan" width="8" height="8" patternUnits="userSpaceOnUse">
+      <path d="M0 7.5H8" stroke="#171717" stroke-opacity="0.13" stroke-width="1"/>
+    </pattern>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="20" stdDeviation="24" flood-color="#111827" flood-opacity="0.2"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="560" rx="34" fill="url(#paper)"/>
+  <rect x="22" y="22" width="1156" height="516" rx="28" fill="url(#scan)" opacity="0.7"/>
+  <rect x="22" y="22" width="1156" height="516" rx="28" stroke="#171717" stroke-width="2"/>
+
+  <circle cx="888" cy="106" r="176" fill="url(#glowB)" opacity="0.75"/>
+  <circle cx="1012" cy="364" r="226" fill="url(#glowA)" opacity="0.65"/>
+  <circle cx="226" cy="434" r="178" fill="#E8FF5B" opacity="0.42"/>
+
+  <path d="M704 73C808 40 936 44 1038 88C1118 122 1152 182 1126 245C1096 318 982 336 873 307C772 281 681 210 680 147C679 111 689 84 704 73Z" fill="#171717" opacity="0.95"/>
+  <path d="M746 112C835 78 954 94 1038 142C1092 173 1106 218 1075 252C1034 298 910 290 810 249C719 211 685 135 746 112Z" fill="url(#signal)" opacity="0.92"/>
+  <path d="M750 319C830 377 926 414 1034 430" stroke="#171717" stroke-width="3" stroke-linecap="round"/>
+  <path d="M764 351C842 402 924 436 1027 458" stroke="#171717" stroke-width="1.6" stroke-linecap="round" opacity="0.58"/>
+  <path d="M732 391C809 447 889 479 994 496" stroke="#171717" stroke-width="1.6" stroke-linecap="round" opacity="0.58"/>
+
+  <g opacity="0.92">
+    <path d="M752 180L852 142L956 196L1044 163" stroke="#171717" stroke-width="3" stroke-linecap="round"/>
+    <path d="M752 180L822 246L956 196L1008 280" stroke="#171717" stroke-width="2" stroke-linecap="round" opacity="0.62"/>
+    <circle cx="752" cy="180" r="8" fill="#FFF7ED" stroke="#171717" stroke-width="3"/>
+    <circle cx="852" cy="142" r="8" fill="#E8FF5B" stroke="#171717" stroke-width="3"/>
+    <circle cx="956" cy="196" r="8" fill="#FF4D6D" stroke="#171717" stroke-width="3"/>
+    <circle cx="1044" cy="163" r="8" fill="#2DD4BF" stroke="#171717" stroke-width="3"/>
+    <circle cx="822" cy="246" r="8" fill="#2DD4BF" stroke="#171717" stroke-width="3"/>
+    <circle cx="1008" cy="280" r="8" fill="#FFF7ED" stroke="#171717" stroke-width="3"/>
+  </g>
+
+  <rect x="72" y="72" width="506" height="360" rx="0" fill="#FFFDF8" stroke="#171717" stroke-width="2" filter="url(#softShadow)"/>
+  <rect x="96" y="98" width="132" height="34" fill="#171717"/>
+  <text x="112" y="121" fill="#FFFDF8" font-family="Courier New, monospace" font-size="15" font-weight="700">AI ATELIER</text>
+  <rect x="244" y="98" width="168" height="34" fill="#E8FF5B" stroke="#171717" stroke-width="2"/>
+  <text x="260" y="121" fill="#171717" font-family="Courier New, monospace" font-size="15" font-weight="700">DESIGN PRODUCT</text>
+
+  <text x="92" y="210" fill="#171717" font-family="Georgia, 'Times New Roman', serif" font-size="74" font-weight="700">Elliot</text>
+  <text x="92" y="286" fill="#171717" font-family="Georgia, 'Times New Roman', serif" font-size="74" font-weight="700">Bai</text>
+  <rect x="96" y="306" width="306" height="10" fill="url(#signal)"/>
+  <text x="96" y="358" fill="#171717" font-family="Courier New, monospace" font-size="19" font-weight="700">ART / DESIGN / PRODUCT / AI</text>
+  <text x="96" y="391" fill="#171717" font-family="Courier New, monospace" font-size="17">Co-founder at Mew.Design</text>
+
+  <g transform="translate(92 452)">
+    <rect width="166" height="38" rx="19" fill="#171717"/>
+    <text x="24" y="25" fill="#FFFDF8" font-family="Courier New, monospace" font-size="14" font-weight="700">taste to tools</text>
+    <rect x="180" width="158" height="38" rx="19" fill="#FF4D6D" stroke="#171717" stroke-width="2"/>
+    <text x="203" y="25" fill="#171717" font-family="Courier New, monospace" font-size="14" font-weight="700">idea to system</text>
+  </g>
+
+  <rect x="642" y="72" width="474" height="374" fill="url(#dotGrid)" opacity="0.72"/>
+  <path d="M650 446H1115" stroke="#171717" stroke-width="2"/>
+  <path d="M642 72V446" stroke="#171717" stroke-width="2"/>
+  <rect x="675" y="360" width="182" height="50" fill="#FFFDF8" stroke="#171717" stroke-width="2"/>
+  <text x="695" y="392" fill="#171717" font-family="Courier New, monospace" font-size="17" font-weight="700">prompt becomes</text>
+  <rect x="874" y="360" width="174" height="50" fill="#171717"/>
+  <text x="896" y="392" fill="#FFFDF8" font-family="Courier New, monospace" font-size="17" font-weight="700">visual logic</text>
+
+  <path d="M586 68L612 44L638 68L612 92L586 68Z" fill="#E8FF5B" stroke="#171717" stroke-width="2"/>
+  <path d="M1087 482L1132 463L1154 507L1107 523L1087 482Z" fill="#2DD4BF" stroke="#171717" stroke-width="2"/>
+  <path d="M40 478C77 472 104 486 118 520" stroke="#FF4D6D" stroke-width="10" stroke-linecap="round"/>
+</svg>
