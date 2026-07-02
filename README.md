@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://mew.design">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0B0B0B,48:334155,100:14B8A6&text=Elliot%20Bai&fontColor=ffffff&fontSize=48&fontAlignY=36&desc=Founder%20%E2%80%A2%20Builder%20%E2%80%A2%20Agent%20Loop%20%26%20Harness%20Builder&descAlignY=58&animation=fadeIn" alt="Elliot Bai - Founder, builder, agent loop and harness builder" />
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0B0B0B,48:334155,100:14B8A6&text=Elliot%20Bai&fontColor=ffffff&fontSize=48&fontAlignY=36&desc=Founder%20%E2%80%A2%20Builder%20%E2%80%A2%20Agent%20Loop%20and%20Harness%20Builder&descAlignY=58&animation=fadeIn" alt="Elliot Bai - Founder, builder, agent loop and harness builder" />
   </a>
 </div>
 
