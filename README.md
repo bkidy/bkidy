@@ -1,90 +1,58 @@
-<div align="center">
-  <a href="https://mew.design">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0B0B0B,48:334155,100:14B8A6&text=Elliot%20Bai&fontColor=ffffff&fontSize=48&fontAlignY=36&desc=AI%20Design%20Product%20Builder%20%7C%20Co-founder%20at%20Mew.Design&descAlignY=58&animation=fadeIn" alt="Elliot Bai - AI design product builder" />
-  </a>
-</div>
-
-<h3 align="center">Building AI design products where taste becomes usable systems.</h3>
+<h1 align="center">Elliot Bai</h1>
 
 <p align="center">
-  <a href="https://mew.design"><img src="https://img.shields.io/badge/Mew.Design-AI%20Design%20Product-0B0B0B?style=for-the-badge" alt="Mew.Design" /></a>
-  <a href="https://twitter.com/bkidallen"><img src="https://img.shields.io/badge/@bkidallen-Studio%20Notes-334155?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" /></a>
-  <img src="https://komarev.com/ghpvc/?username=bkidy&label=Studio%20visits&color=14B8A6&style=for-the-badge" alt="Profile views" />
+  Founder · Builder · Agent Loop & Harness Builder
+</p>
+
+<p align="center">
+  Co-founder of <a href="https://mew.design">Mew.Design</a>, building AI-native products, agent workflows, and the harnesses that turn models into reliable systems.
+</p>
+
+<p align="center">
+  <a href="https://mew.design">Mew.Design</a> ·
+  <a href="https://x.com/BkidAllen">X</a> ·
+  <a href="mailto:bkidyy@gmail.com">Email</a>
 </p>
 
 ---
 
-### Hi, I'm Elliot.
+### What I Do
 
-I'm the co-founder of [Mew.Design](https://mew.design), building AI-native design tools for faster creative collaboration.
+I'm the co-founder of [Mew.Design](https://mew.design).
 
-My sweet spot is the space between art direction, product taste, and hands-on engineering: shaping the experience, prototyping the workflow, writing the code, and pushing AI from demo magic into useful creative software.
+I build AI-native products around agent loops: turning user intent into plans, tool use, editable outputs, feedback, and reliable production workflows.
 
----
-
-### Builder Profile
-
-| Design taste | Product systems | Engineering craft |
-| --- | --- | --- |
-| I start from visual intent, creative bottlenecks, and the feeling of the final output. | I turn fuzzy user needs into repeatable workflows, editable outputs, and product loops. | I ship with TypeScript, React, Node.js, Wasp, Python, PostgreSQL, Cloudflare, AWS, and AI coding tools. |
-
----
-
-### Selected Work
-
-| Project | What it is | My focus |
-| --- | --- | --- |
-| [Mew.Design](https://mew.design) | AI design generation and creative collaboration platform. | Co-founder, product direction, AI integration, core product development. |
-| [screenshot](https://github.com/bkidy/screenshot) | High-performance web screenshot service powering Mew.Design workflows. | Rendering infrastructure, browser automation, production utility service. |
-| [MagoUI](https://github.com/bkidy/MagoUI) | Local AI prototype experiment inspired by modern prompt-to-UI tools. | TypeScript product prototyping and AI-assisted interface generation. |
-| [Awesome-GPT-Store-Zh](https://github.com/bkidy/Awesome-GPT-Store-Zh) | Chinese GPT Store curation. | Tracking AI ecosystem shifts and practical product ideas. |
-
----
+My work sits across product direction, system design, AI integration, and hands-on engineering. Before becoming a founder, I spent years as a product manager; now I work much closer to code, using AI coding agents as part of my daily build loop.
 
 ### Current Focus
 
-- Turning natural language into editable, useful design outputs.
-- Building tight loops between design taste, AI agents, and shippable code.
-- Exploring how AI changes design collaboration, prototyping, and software creation.
-- Keeping the work practical: fast experiments, real users, measurable product value.
+- Building practical agent loops for real product workflows.
+- Turning prompts into repeatable systems, not one-off demos.
+- Designing human-in-the-loop creation, editing, and iteration flows.
+- Building harness layers around models: tools, memory, permissions, context, and feedback.
+- Contributing to open-source AI agent and agentic workflow frameworks.
 
----
+### Open Source
+
+I contribute to and learn from open-source AI agent, AI coding, and agentic workflow projects, including:
+
+- [Mastra](https://github.com/mastra-ai/mastra)
+- [OpenHands](https://github.com/OpenHands/OpenHands)
+- [Dify](https://github.com/langgenius/dify)
+
+### Selected Work
+
+| Project | What it is | My role |
+| --- | --- | --- |
+| [Mew.Design](https://mew.design) | AI-native creation platform for generating and editing visual work. | Co-founder, product direction, AI integration, core product development. |
+| [screenshot](https://github.com/bkidy/screenshot) | Browser rendering service for converting HTML into images. | Rendering infrastructure, automation, production utility service. |
+| [MagoUI](https://github.com/bkidy/MagoUI) | Local prompt-to-UI prototype experiment. | Agent loop exploration, interface generation, product prototyping. |
+| [Awesome-GPT-Store-Zh](https://github.com/bkidy/Awesome-GPT-Store-Zh) | Chinese GPT Store curation. | Early AI product research and ecosystem tracking. |
 
 ### Stack
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Wasp-111827?style=flat-square" alt="Wasp" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-111827?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-111827?style=flat-square&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
-  <img src="https://img.shields.io/badge/Cloudflare-111827?style=flat-square&logo=cloudflare&logoColor=F38020" alt="Cloudflare" />
-  <img src="https://img.shields.io/badge/Figma-111827?style=flat-square&logo=figma&logoColor=F24E1E" alt="Figma" />
-</p>
+TypeScript, React, Node.js, Wasp, Python, PostgreSQL, Docker, Cloudflare, AWS, Figma, and AI coding tools.
 
----
+### Keywords
 
-### GitHub Signal
-
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bkidy&theme=github_dark" alt="Elliot's GitHub contribution profile" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bkidy&theme=github_dark" alt="Elliot's repositories by language" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bkidy&theme=github_dark" alt="Elliot's GitHub stats" />
-</p>
-
----
-
-### Connect
-
-<p>
-  <a href="https://mew.design">Mew.Design</a> ·
-  <a href="mailto:bkidyy@gmail.com">Email</a> ·
-  <a href="https://twitter.com/bkidallen">X / Twitter</a>
-</p>
+Founder · Builder · Agent Loops · Agent Harness · AI Agents · GenUI · Agentic Workflows · Product Engineering · AI-Native Software
