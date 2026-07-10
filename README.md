@@ -4,11 +4,12 @@
   </a>
 </div>
 
-<h3 align="center">Building AI-native products, agent workflows, and harnesses that turn models into reliable systems.</h3>
+<h3 align="center">Building AI-native products, agent loops, and harness layers that turn models into reliable systems.</h3>
 
 <p align="center">
   <a href="https://mew.design"><img src="https://img.shields.io/badge/Mew.Design-AI%20Native%20Product-0B0B0B?style=for-the-badge" alt="Mew.Design" /></a>
-  <a href="https://twitter.com/bkidallen"><img src="https://img.shields.io/badge/@bkidallen-Agent%20Loop%20Notes-334155?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" /></a>
+  <a href="https://github.com/mastra-ai/mastra"><img src="https://img.shields.io/badge/Mastra-Contributor-334155?style=for-the-badge" alt="Mastra contributor" /></a>
+  <a href="https://twitter.com/bkidallen"><img src="https://img.shields.io/badge/@bkidallen-Agent%20Loop%20Notes-14B8A6?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" /></a>
   <img src="https://komarev.com/ghpvc/?username=bkidy&label=Studio%20visits&color=14B8A6&style=for-the-badge" alt="Profile views" />
 </p>
 
@@ -16,52 +17,50 @@
 
 ### Hi, I'm Elliot.
 
-I'm the co-founder of [Mew.Design](https://mew.design), building AI-native products around practical agent loops.
+I'm the co-founder of [Mew.Design](https://mew.design). I build AI-native products where the hard part is not the prompt itself, but the loop around it: planning, tool use, memory, feedback, editing, evaluation, and production reliability.
 
-My work sits across product direction, system design, AI integration, and hands-on engineering: turning user intent into plans, tool use, editable outputs, feedback, and reliable production workflows.
-
-Before becoming a founder, I spent years as a product manager. Now I work much closer to code, using AI coding agents as part of my daily build loop.
+My background is product management, but my current work is much closer to code. I use AI coding agents daily to design workflows, ship features, debug systems, and turn rough product ideas into working software.
 
 ---
 
-### Builder Profile
+### What I Build
 
-| Founder | Agent loops | Harness engineering |
+| Founder / operator | Agent loop products | Harness / framework practice |
 | --- | --- | --- |
-| I turn fuzzy product opportunities into shipped systems, user loops, and business outcomes. | I design workflows where models plan, use tools, receive feedback, and produce editable results. | I build around tools, memory, permissions, context, observability, and production reliability. |
+| I turn ambiguous opportunities into shipped products, user loops, and business outcomes. | I design workflows where models plan, call tools, produce editable outputs, and improve through feedback. | I build around context, memory, permissions, observability, evaluation, deployment, and real-world constraints. |
 
 ---
 
 ### Open Source
 
-I contribute to and learn from open-source AI agent, AI coding, and agentic workflow projects, including:
+I contribute to and learn from open-source AI agent, AI coding, and agentic workflow projects:
 
-| Project | Area |
+| Project | Why it matters to my work |
 | --- | --- |
-| [Mastra](https://github.com/mastra-ai/mastra) | Agent framework and AI application infrastructure. |
-| [OpenHands](https://github.com/OpenHands/OpenHands) | AI software engineering agent. |
-| [Dify](https://github.com/langgenius/dify) | Agentic workflow and AI application platform. |
+| [Mastra](https://github.com/mastra-ai/mastra) | TypeScript agent framework for building AI applications, workflows, memory, tools, and observability. |
+| [OpenHands](https://github.com/OpenHands/OpenHands) | AI software engineering agent and runtime environment for delegated coding work. |
+| [Dify](https://github.com/langgenius/dify) | Agentic workflow platform for building and operating AI applications. |
 
 ---
 
-### Selected Work
+### Selected Builds
 
 | Project | What it is | My focus |
 | --- | --- | --- |
-| [Mew.Design](https://mew.design) | AI-native creation platform for generating and editing visual work. | Co-founder, product direction, AI integration, core product development. |
-| [screenshot](https://github.com/bkidy/screenshot) | Browser rendering service for converting HTML into images. | Rendering infrastructure, automation, production utility service. |
-| [MagoUI](https://github.com/bkidy/MagoUI) | Local prompt-to-UI prototype experiment. | Agent loop exploration, interface generation, product prototyping. |
-| [Awesome-GPT-Store-Zh](https://github.com/bkidy/Awesome-GPT-Store-Zh) | Chinese GPT Store curation. | Early AI product research and ecosystem tracking. |
+| [Mew.Design](https://mew.design) | AI-native creation platform for generating and editing visual work. | Founder, product direction, agent workflow design, AI integration, core product development. |
+| [screenshot](https://github.com/bkidy/screenshot) | Browser rendering service for converting HTML into production-ready images. | Rendering infrastructure, browser automation, cropping, optimization, and service reliability. |
+| [MagoUI](https://github.com/bkidy/MagoUI) | Local prompt-to-UI prototype experiment. | GenUI exploration, interface generation, product prototyping, and agent loop design. |
+| [BaiQuant-public](https://github.com/bkidy/BaiQuant-public) | A-share quantitative research toolkit built with AI-assisted workflows. | Harness-style backtesting, stock selection, paper trading, and risk review loops. |
 
 ---
 
 ### Current Focus
 
-- Building practical agent loops for real product workflows.
-- Turning prompts into repeatable systems, not one-off demos.
-- Designing human-in-the-loop creation, editing, and iteration flows.
-- Building harness layers around models: tools, memory, permissions, context, and feedback.
-- Contributing to open-source AI agent and agentic workflow frameworks.
+- Building Mew.Design as a practical AI-native product, not a demo.
+- Designing agent loops for creation, editing, review, and iteration.
+- Building harness layers around models: tools, memory, permissions, context, evaluation, and feedback.
+- Contributing to open-source agent frameworks and agentic workflow projects.
+- Using AI coding agents to ship real product work with tighter build-review-release loops.
 
 ---
 
