@@ -45,7 +45,6 @@ I care about the unglamorous loop around the model: context, memory, permissions
   </tr>
 </table>
 
-**Earlier experiments:** [RedInk](https://github.com/bkidy/RedInk) · [Dida_spider](https://github.com/bkidy/Dida_spider) · [rea](https://github.com/bkidy/rea)
 
 ## Toolbox
 
