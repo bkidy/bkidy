@@ -62,5 +62,5 @@ I care about the unglamorous loop around the model: context, memory, permissions
 [VinkClaw](https://www.vinkclaw.com) · [X @bkidallen](https://twitter.com/bkidallen) · [Mew.Design](https://mew.design)
 
 <p align="center">
-  <sub>VinkWork · Genca · Shanghai</sub>
+  <sub>VinkWork · Genca · VinkClaw.com</sub>
 </p>
