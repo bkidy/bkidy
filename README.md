@@ -1,8 +1,12 @@
 <div align="center">
   <a href="https://www.vinkclaw.com">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0B0B0B,48:334155,100:14B8A6&text=Elliot%20Bai&fontColor=ffffff&fontSize=48&fontAlignY=36&desc=Building%20VinkClaw&descAlignY=58&animation=fadeIn" alt="Elliot Bai" />
+    <img src="assets/hero.png" width="100%" alt="Elliot Bai — AI agents that do real work" />
   </a>
 </div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1200&color=5EEAD4&size=20&center=true&vCenter=true&width=1000&lines=Building+VinkClaw;AI+agents+for+enterprise+%26+e-commerce;Open-source+DSH+plugins;Previously+Mew.Design" alt="Building VinkClaw · AI agents for enterprise & e-commerce · Open-source DSH plugins" />
+</p>
 
 <p align="center">
   <a href="https://www.vinkclaw.com"><img src="https://img.shields.io/badge/VinkClaw-Enterprise%20Office%20Agent-0B0B0B?style=for-the-badge" alt="VinkClaw" /></a>
@@ -19,26 +23,44 @@ I care about the unglamorous loop around the model: context, memory, permissions
 
 <sub>中文：在 VinkWork（Genca）做企业级 AI Agent，核心产品 VinkClaw；也在做电商设计自动化的开源工具。</sub>
 
-### Now
+## What I'm building
 
-- **[dsh-psd-batch-studio](https://github.com/vinkwork/dsh-psd-batch-studio)** — open-source DeepSeek Harness plugin for batch-producing e-commerce main images from PSD templates: product slots, SKU cut-outs, canvas fine-tune, agent batch rendering.
-- **VinkClaw** — enterprise office agent for Web, Feishu, DingTalk, and WeCom.
+<table>
+  <tr>
+    <td width="50%"><a href="https://www.vinkclaw.com"><img src="assets/card-vinkclaw.png" width="100%" alt="VinkClaw" /></a></td>
+    <td width="50%"><a href="https://github.com/vinkwork/dsh-psd-batch-studio"><img src="assets/card-dsh.png" width="100%" alt="DSH PSD Batch Studio" /></a></td>
+  </tr>
+</table>
 
-### Selected work
+## Selected work
 
-| Project | What it is |
-| --- | --- |
-| **[VinkClaw](https://www.vinkclaw.com)** | Enterprise office agent; identity- and permission-scoped assistants. |
-| **[dsh-psd-batch-studio](https://github.com/vinkwork/dsh-psd-batch-studio)** | DSH plugin: PSD main-image batches for e-commerce. |
-| **[Mew.Design](https://mew.design)** | AI-native creation platform: natural language → graphics. |
-| **[MagoUI](https://github.com/bkidy/MagoUI)** | AI prototyping, a local v0. |
-| **[BaiQuant-public](https://github.com/bkidy/BaiQuant-public)** | A-share quant research toolkit with agent-assisted backtesting. |
-| **[screenshot](https://github.com/bkidy/screenshot)** | HTML→image microservice behind Mew.Design. |
+<table>
+  <tr>
+    <td width="50%"><a href="https://mew.design"><img src="assets/card-mew.png" width="100%" alt="Mew.Design" /></a></td>
+    <td width="50%"><a href="https://github.com/bkidy/MagoUI"><img src="assets/card-magoui.png" width="100%" alt="MagoUI" /></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/bkidy/BaiQuant-public"><img src="assets/card-baiquant.png" width="100%" alt="BaiQuant-public" /></a></td>
+    <td width="50%"><a href="https://github.com/bkidy/screenshot"><img src="assets/card-screenshot.png" width="100%" alt="screenshot" /></a></td>
+  </tr>
+</table>
 
-### Toolbox
+**Earlier experiments:** [RedInk](https://github.com/bkidy/RedInk) · [Dida_spider](https://github.com/bkidy/Dida_spider) · [rea](https://github.com/bkidy/rea)
 
-`TypeScript` · `Node.js` · `Python` · `React` · `LLM agents` · `DSH / Cordis` · `Canvas / PSD` · `e-commerce automation`
+## Toolbox
 
-### Elsewhere
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,python,react,nextjs,postgres,redis,docker,git,github" alt="TypeScript, Node.js, Python, React, Next.js, PostgreSQL, Redis, Docker, Git, GitHub" />
+</p>
+
+<p align="center">
+  <sub>LLM agents · DSH / Cordis · Canvas / PSD · e-commerce automation</sub>
+</p>
+
+## Elsewhere
 
 [VinkClaw](https://www.vinkclaw.com) · [X @bkidallen](https://twitter.com/bkidallen) · [Mew.Design](https://mew.design)
+
+<p align="center">
+  <sub>VinkWork · Genca · Shanghai</sub>
+</p>
